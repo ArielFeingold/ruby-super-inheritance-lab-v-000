@@ -2,8 +2,12 @@ require_relative "./student.rb"
 
 class ChattyStudent < Student
 
-def hello
+  def hello
 
-end
+  end
+
+  def raise_hand
+
+  end
 
 end
